@@ -1,7 +1,7 @@
 NTS-Net-Keras
 This project is a tool to build NTS-Net models, written in Keras.
 
-<img width="351" height="644" src="model.png" alt="NTS-Net model"/>
+<img width="500" height="644" src="model.png" alt="NTS-Net model"/>
 
 original paper:<<Learning to Navigate for Fine-grained Classification.>>
 ## [NTS-Net](https://arxiv.org/abs/1809.00287?context=cs)?
