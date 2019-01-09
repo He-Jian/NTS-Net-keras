@@ -10,7 +10,7 @@ original paper:[Learning to Navigate for Fine-grained Classification.](https://a
 ## Get [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
 
 
-# Multi-gpu training is supported
+### Multi-gpu training is supported
 
 ## Quickstart
 **Note that currently this project can only be executed in Linux and macOS. You might run into some issues in Windows.**
