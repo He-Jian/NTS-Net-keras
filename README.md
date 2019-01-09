@@ -3,8 +3,8 @@ This project is a tool to build NTS-Net models, written in Keras.
 
 <img width="500" height="700" src="model.png" alt="NTS-Net model"/>
 
-original paper:<Learning to Navigate for Fine-grained Classification.>
-## [NTS-Net](https://arxiv.org/abs/1809.00287?context=cs)?
+original paper:[Learning to Navigate for Fine-grained Classification.](https://arxiv.org/abs/1809.00287?context=cs)
+
 
 
 ## Get [CUB-200-2011](http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz)
