@@ -35,7 +35,7 @@ Accuracy on test set is 0.82,which is 5 percent lower than the original implemen
 ## Acknowledgement
 
 Original implementation
-[NTS-Net(https://github.com/yangze0930/NTS-Net),pytorch version.
+[NTS-Net](https://github.com/yangze0930/NTS-Net),pytorch version.
 
 ## Author
 He Jian (2314056974@qq.com)
